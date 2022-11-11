@@ -1,0 +1,5 @@
+{
+  "infile": "./CHANGELOG.md",
+  "releaseCommitMessageFormat": "chore: release V{{currentTag}}",
+  "tagPrefix": "V"
+}

@@ -1,0 +1,22 @@
+{
+  "author": "Aziz Da <azizdawhat@gmail.com>",
+  "description": "Self-explanatory name!",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "standard-version": "^9.5.0"
+  },
+  "keywords": [
+    "boilerplate code",
+    "web app"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "./index.cjs",
+  "name": "start-webapp",
+  "private": true,
+  "repository": "github:azizdawhat/start-webapp",
+  "scripts": {},
+  "type": "commonjs",
+  "version": "0.1.0"
+}
